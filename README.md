@@ -4,4 +4,4 @@ These maps were created using Open Street Maps, a project that distributes free 
 
 This is an example map created using the package osmdata, passed to ggplot2:
 
-<object data="./map.pdf" type="application/pdf">
+<object data="./map.pdf" type="application/pdf" width="700px" height="700px">
