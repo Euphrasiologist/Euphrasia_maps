@@ -9,3 +9,5 @@ This is an example map created using the package osmdata, passed to ggplot2:
 \begin{center} <br>
 \includegraphics[width=8in]{map.pdf} <br>
 \end{center}
+
+![Alt](map.pdf)
