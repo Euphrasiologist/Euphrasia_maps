@@ -1,0 +1,52 @@
+---
+title: "Distribution map of some species of Eyebright on Fair Isle"
+author: "Max R Brown"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+These maps were created using Open Street Maps, a project that distributes free geographic data for the world. 
+
+This is an example map created using the package osmdata, passed to ggplot2:
+
+```{r echo=FALSE, message=FALSE}
+# using the osmdata api for this
+# then plotting using the lovely ggplot functionality
+library(osmdata)
+library(dplyr)
+library(data.table)
+library(ggplot2)
+
+mapped <- fread("./joint_sites_180816_verifiedAT_HB.csv")
+FI <- opq(bbox = c(-1.66782, 59.51166, -1.59130, 59.55439))
+FI_roads <- add_osm_feature(opq = FI,
+                                    key = "highway",
+                                    value = c("unclassified")) %>%
+  osmdata_sf()
+
+FI_boundary <- add_osm_feature(opq = FI, key = "natural", value = "coastline") %>%
+  osmdata_sf()
+
+mapFI <- ggplot() +
+  geom_sf(data = FI_boundary$osm_lines,
+          inherit.aes = FALSE,
+          color = "black",
+          size = 0.5,
+          alpha = 0.8) +
+  geom_sf(data = FI_roads$osm_lines,
+          inherit.aes = FALSE,
+          color = "black",
+          size = 0.5,
+          alpha = 0.8) +
+  geom_point(data = mapped[Taxon %in% c("Euphrasia arctica", "Euphrasia foulaensis", "Euphrasia micrantha")], aes(x = lon, y = lat, fill = Taxon), pch = 21, size = 4)+
+  scale_fill_manual(name = "Species", values = c("red", "green", "blue"))+
+  theme_bw(base_line_size = 0)+
+  xlab("Longitude")+
+  ylab("Latitude") 
+
+mapFI
+```

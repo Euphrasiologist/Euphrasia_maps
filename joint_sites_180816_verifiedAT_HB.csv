@@ -1,0 +1,283 @@
+Site,Taxon,lat,lon,comment,ele,time
+FIH23,Euphrasia foulaensis,59.55042601,-1.61206604,,83.407463,2018-08-11T12:48:26Z
+FIH24,Euphrasia micrantha,59.54969301,-1.611841992,,89.67942,2018-08-11T12:54:44Z
+FIH25,Euphrasia foulaensis,59.54988596,-1.615419975,,68.585815,2018-08-11T13:01:30Z
+FIH26,Euphrasia foulaensis x marshallii,59.54956502,-1.61885798,,65.073677,2018-08-11T13:13:54Z
+FIH26,Euphrasia foulaensis,59.54956502,-1.61885798,,65.073677,2018-08-11T13:13:54Z
+FIH27,None,59.54780096,-1.619039029,,96.799774,2018-08-11T13:28:40Z
+FIH28,Euphrasia micrantha,59.54708397,-1.616903991,,98.061295,2018-08-11T13:38:04Z
+FIH28,Euphrasia micrantha x scottica,59.54708397,-1.616903991,,98.061295,2018-08-11T13:38:04Z
+FIH29,None,59.54542897,-1.615557019,,83.167191,2018-08-11T14:05:46Z
+FIH30,None,59.54367497,-1.615115041,,75.980606,2018-08-11T14:18:07Z
+FIH31,None,59.54216598,-1.616824027,,88.454102,2018-08-11T14:31:33Z
+FIH32,None,59.54045297,-1.617760034,,79.442223,2018-08-11T14:47:45Z
+FIH33,Euphrasia micrantha x scottica,59.53854399,-1.616439968,,44.044804,2018-08-11T15:00:29Z
+FIH34,None,59.53705,-1.614474999,,48.671646,2018-08-11T15:13:49Z
+FIH35,None,59.53787503,-1.607727986,,42.417065,2018-08-11T15:45:26Z
+FIH36,Euphrasia micrantha x scottica,59.535987,-1.617286038,,50.15398,2018-08-11T16:18:06Z
+FIH37,Euphrasia scottica 'Shetland',59.53574804,-1.620196989,,37.750656,2018-08-11T16:38:58Z
+FIH38,None,59.53468404,-1.623028982,,64.648712,2018-08-11T16:56:16Z
+A1,Euphrasia foulaensis,59.551979,-1.609571,,,
+A1,Euphrasia foulaensis x marshallii,59.551979,-1.609571,,,
+A2,Euphrasia foulaensis,59.55091,-1.61036,,,
+A2,Euphrasia confusa x foulaensis,59.55091,-1.61036,,,
+A3,Euphrasia micrantha,59.549841,-1.609171,,,
+A4,Euphrasia confusa x foulaensis,59.549586,-1.609384,,,
+A4,Euphrasia micrantha,59.549586,-1.609384,,,
+A5,Euphrasia confusa,59.54858,-1.61063,,,
+A6,Euphrasia confusa,59.548464,-1.613163,,,
+A6,Euphrasia micrantha,59.548464,-1.613163,,,
+A7,Euphrasia micrantha,59.5482,-1.615636,,,
+A8,Euphrasia confusa,59.547157,-1.614534,,,
+A9,Euphrasia micrantha,59.54782,-1.61432,,,
+A10,Euphrasia confusa x foulaensis,59.54639,-1.6117,,,
+A11,Euphrasia micrantha ,59.54505,-1.6123,E. micrantha hybrid,,
+A12,Euphrasia micrantha,59.54374,-1.61285,,,
+A13,None,59.54236,-1.61354,,,
+A14,Euphrasia micrantha,59.54092,-1.6138,,,
+A14,Euphrasia micrantha x scottica,59.54092,-1.6138,Uncertain. If no other scottica ID'd in the area then remove.,,
+A15,Euphrasia confusa x micrantha,59.53967,-1.61403,,,
+A15,Euphrasia micrantha x scottica,59.53967,-1.61403,,,
+A18,Euphrasia confusa,59.53679,-1.60959,,,
+A18,Euphrasia micrantha,59.53679,-1.60959,,,
+A18,Euphrasia confusa x micrantha,59.53679,-1.60959,,,
+A19,None,59.53624,-1.60838,,,
+A20,Euphrasia foulaensis,59.53598,-1.60715,Possible E. foulaensis x micrantha in sympatry,,
+A21,None,59.53723,-1.60441,,,
+A22,None,59.54071,-1.59955,,,
+A23,Euphrasia foulaensis,59.53979,-1.59929,,,
+A24,None,59.53894,-1.60031,,,
+A25,Euphrasia foulaensis,59.53762,-1.60109,,,
+A25,Euphrasia foulaensis x marshallii,59.53762,-1.60109,,,
+A26,Euphrasia foulaensis x marshallii,59.53625,-1.6014,,,
+A26,Euphrasia foulaensis,59.53625,-1.6014,,,
+A27,Euphrasia foulaensis x marshallii,59.53453,-1.60154,,,
+A27,Euphrasia foulaensis,59.53453,-1.60154,,,
+A28,None,59.53325,-1.60084,,,
+A29,None,59.53369,-1.60191,,,
+A30,Euphrasia foulaensis,59.53441,-1.60266,,,
+A30,Euphrasia foulaensis x marshallii,59.53441,-1.60266,,,
+FIMXB001,Euphrasia foulaensis,59.552012,-1.609441,,,
+FIMXB001,Euphrasia foulaensis x marshallii,59.552012,-1.609441,,,
+FIMXB002,Euphrasia foulaensis,59.550766,-1.608886,,,
+FIMXB003,Euphrasia foulaensis,59.550181,-1.60686,,,
+FIMXB004,Euphrasia foulaensis,59.547831,-1.606206,,,
+FIMXB004,Euphrasia foulaensis x marshallii,59.547831,-1.606206,,,
+FIMXB005,None,59.547639,-1.61053,,,
+FIMXB006,None,59.546343,-1.610715,,,
+FIMXB007,None,59.545377,-1.60975,,,
+FIMXB008,None,59.543724,-1.611303,,,
+FIMXB009,None,59.541499,-1.612454,,,
+FIMXB010,Euphrasia foulaensis,59.53984,-1.611663,,,
+M001,Euphrasia foulaensis,59.550837,-1.609411,,,
+M002,Euphrasia foulaensis,59.549977,-1.607546,,,
+M002,Euphrasia micrantha,59.549977,-1.607546,,,
+M003,None,59.549099,-1.608334,,,
+M004,Euphrasia foulaensis,59.54787,-1.611008,,,
+M005,None,59.54641,-1.612285,,,
+M006,Euphrasia micrantha,59.545668,-1.612003,,,
+M007,None,59.544033,-1.611817,,,
+M008,None,59.5416,-1.613034,,,
+M009,Euphrasia micrantha x scottica,59.539601,-1.613175,,,
+M009,Euphrasia micrantha,59.539601,-1.613175,,,
+M011,Euphrasia foulaensis,59.535718,-1.609566,,,
+M011,Euphrasia micrantha,59.535718,-1.609566,,,
+M012,Euphrasia foulaensis,59.535021,-1.6128,,,
+M013,Euphrasia confusa,59.53401,-1.614738,With heslop-harisonii characters,,
+FIH39,Euphrasia foulaensis,59.51353901,-1.64822096,,3.737,2018-08-12T09:08:38Z
+FIH39,Euphrasia foulaensis x marshallii,59.51353901,-1.64822096,,3.737,2018-08-12T09:08:38Z
+FIH40,Euphrasia foulaensis x marshallii,59.51224602,-1.649894994,,11.944645,2018-08-12T09:18:43Z
+FIH41,Euphrasia foulaensis,59.51361202,-1.65219197,,7.791451,2018-08-12T09:28:47Z
+FIH42,Euphrasia foulaensis,59.51491498,-1.650289027,,12.483204,2018-08-12T09:39:47Z
+FIH42,Euphrasia confusa x foulaensis,59.51491498,-1.650289027,,12.483204,2018-08-12T09:39:47Z
+FIH43,Euphrasia foulaensis,59.51660603,-1.651686039,,1.663048,2018-08-12T09:54:42Z
+FIH44,Euphrasia foulaensis x marshallii,59.51730399,-1.655266033,,14.597061,2018-08-12T10:07:12Z
+FIH45,Euphrasia foulaensis,59.51872196,-1.652943995,,26.324421,2018-08-12T10:13:04Z
+FIH45,Euphrasia foulaensis x marshallii,59.51872196,-1.652943995,,26.324421,2018-08-12T10:13:04Z
+FIH46,Euphrasia foulaensis,59.52025702,-1.650240999,,30.193287,2018-08-12T10:25:15Z
+FIH46,Euphrasia confusa x foulaensis,59.52025702,-1.650240999,,30.193287,2018-08-12T10:25:15Z
+FIH47,Euphrasia foulaensis,59.52177901,-1.648053993,,27.334393,2018-08-12T10:39:43Z
+FIH47,Euphrasia foulaensis x marshallii,59.52177901,-1.648053993,,27.334393,2018-08-12T10:39:43Z
+FIH48,None,59.52471804,-1.648137979,,63.878044,2018-08-12T10:53:42Z
+FIH49,Euphrasia foulaensis,59.52468501,-1.64447601,,33.425587,2018-08-12T11:00:24Z
+FIH50,Euphrasia foulaensis,59.52645502,-1.643408993,,44.667332,2018-08-12T11:19:46Z
+FIH51,Euphrasia micrantha,59.54397404,-1.627022037,,155.540894,2018-08-12T14:24:35Z
+FIH51,Euphrasia scottica,59.54397404,-1.627022037,,155.540894,2018-08-12T14:24:35Z
+FIH52,Euphrasia foulaensis,59.54532101,-1.634068033,,195.683853,2018-08-12T15:32:26Z
+FIH53,None,59.54347196,-1.634309012,,170.662598,2018-08-12T15:46:30Z
+FIH54,Euphrasia foulaensis,59.54297399,-1.635139994,,160.925018,2018-08-12T15:51:56Z
+FIH55,Euphrasia foulaensis,59.54201804,-1.638457971,,111.863144,2018-08-12T16:01:29Z
+FIH56,Euphrasia foulaensis,59.54108597,-1.641494986,,86.46109,2018-08-12T16:11:40Z
+FIH57,Euphrasia foulaensis,59.53934102,-1.641832022,,88.612625,2018-08-12T16:18:41Z
+FIH58,Euphrasia foulaensis,59.53794301,-1.639622971,,116.962448,2018-08-12T16:28:42Z
+FIH59,Euphrasia foulaensis,59.53598902,-1.640756037,,143.384827,2018-08-12T16:37:50Z
+FIH60,None,59.53425799,-1.643212019,,122.660675,2018-08-12T16:48:23Z
+FIH61,Euphrasia foulaensis,59.53137704,-1.645750981,,103.064713,2018-08-12T17:03:12Z
+FIH62,Euphrasia foulaensis,59.52811103,-1.645310009,,84.586624,2018-08-12T17:16:18Z
+A32,Euphrasia confusa x micrantha,59.53506,-1.6149,,,
+A32,Euphrasia confusa,59.53506,-1.6149,,,
+A33,Euphrasia micrantha,59.5341,-1.61789,,,
+A34,Euphrasia micrantha,59.53278,-1.62161,,,
+A35,Euphrasia confusa,59.53257,-1.62347,,,
+A36,Euphrasia confusa,59.53147,-1.62626,,,
+A37,Euphrasia arctica,59.52968,-1.62756,,,
+A38,Euphrasia arctica,59.5277,-1.63081,,,
+A39,None,59.52611,-1.63338,,,
+A40,Euphrasia arctica,59.5251,-1.63463,,,
+A41,None,59.52395,-1.63316,,,
+A42,Euphrasia micrantha x scottica,59.52153,-1.63282,,,
+A44,Euphrasia arctica,59.52292,-1.63573,,,
+A45,Euphrasia arctica,59.52236,-1.63693,,,
+A46,None,59.52175,-1.63817,,,
+A47,Euphrasia arctica,59.52016,-1.63979,,,
+A48,Euphrasia arctica,59.5185,-1.64046,,,
+A49,Euphrasia arctica,59.51677,-1.64147,,,
+A50,None,59.51534,-1.64439,,,
+A51,None,59.51503,-1.64666,,,
+A52,None,59.51388,-1.64704,,,
+A53,None,59.51563,-1.64949,,,
+A54,None,59.51753,-1.64583,,,
+A55,None,59.52126,-1.64393,,,
+A56,Euphrasia arctica,59.52295,-1.64098,,,
+A57,Euphrasia arctica,59.5242,-1.63717,,,
+A58,None,59.52803,-1.63601,,,
+A59,Euphrasia arctica x foulaensis,59.52703,-1.63392,changed from arctica x micrantha. Check distribution.,,
+A59,Euphrasia micrantha,59.52703,-1.63392,,,
+A60,None,59.52838,-1.62574,,,
+A61,Euphrasia arctica,59.52942,-1.62743,,,
+A61,Euphrasia arctica x foulaensis,59.52942,-1.62743,changed from arctica x micrantha. Check distribution.,,
+A62,Euphrasia arctica,59.53019,-1.62935,,,
+A62,Euphrasia arctica x micrantha,59.53019,-1.62935,,,
+A63,Euphrasia micrantha x scottica,59.53044,-1.62677,,,
+A63,Euphrasia scottica,59.53044,-1.62677,,,
+A65,Euphrasia arctica,59.53173,-1.62729,,,
+A66,Euphrasia scottica,59.53221,-1.62857,,,
+A66,Euphrasia micrantha,59.53221,-1.62857,,,
+A66,Euphrasia micrantha x scottica,59.53221,-1.62857,,,
+A67,Euphrasia scottica,59.53323,-1.62825,,,
+A67,Euphrasia micrantha,59.53323,-1.62825,,,
+A68,Euphrasia scottica,59.53461,-1.62638,,,
+A69,None,59.53541,-1.62232,,,
+A70,None,59.53527,-1.6197,,,
+A71,None,59.54653,-1.63396,,,
+A72,None,59.54712,-1.63366,,,
+A73,Euphrasia foulaensis x marshallii,59.54725,-1.63435,,,
+A74,None,59.54694,-1.63537,,,
+A75,Euphrasia foulaensis,59.54793,-1.63623,,,
+A76,Euphrasia foulaensis,59.55061,-1.63396,,,
+A77,None,59.55027,-1.63114,,,
+A78,None,59.54894,-1.62754,,,
+A79,None,59.54793,-1.62496,,,
+A80,None,59.54703,-1.62161,,,
+A81,None,59.54618,-1.61819,,,
+A82,None,59.54446,-1.61467,,,
+M014,Euphrasia foulaensis,59.51251,-1.63539,,,
+M014,Euphrasia foulaensis x marshallii,59.51251,-1.63539,,,
+M015,Euphrasia foulaensis,59.51376,-1.63477,,,
+M016,Euphrasia foulaensis x marshallii,59.51482,-1.63235,,,
+M016,Euphrasia arctica,59.51482,-1.63235,,,
+M017,Euphrasia foulaensis x marshallii,59.51512,-1.62867,,,
+M018,Euphrasia foulaensis,59.51879,-1.62867,,,
+M018,Euphrasia foulaensis,59.51879,-1.62867,,,
+M019,Euphrasia foulaensis x marshallii,59.51987,-1.62649,,,
+M019,Euphrasia foulaensis,59.51987,-1.62649,,,
+M020,None,59.52322,-1.62932,,,
+M021,None,59.52485,-1.62798,,,
+M022,Euphrasia foulaensis,59.52528,-1.6303,,,
+M023,None,59.52715,-1.6291,,,
+M024,Euphrasia foulaensis,59.52758,-1.62473,,,
+M024,Euphrasia micrantha,59.52758,-1.62473,,,
+M025,None,59.54456,-1.63114,,,
+M026,None,59.54326,-1.63041,,,
+M027,None,59.54095,-1.63002,,,
+M028,Euphrasia micrantha,59.53919,-1.62901,,,
+M029,Euphrasia micrantha,59.53658,-1.62901,,,
+M029,Euphrasia scottica,59.53658,-1.62901,,,
+M030,Euphrasia micrantha,59.53517,-1.63019,,,
+FIMXB011,Euphrasia foulaensis,59.516392,-1.630945,Euphrasia arctica x micrantha?,,
+FIMXB012,Euphrasia micrantha,59.519289,-1.630768,,,
+FIMXB013,None,59.52098,-1.630698,,,
+FIMXB015,None,59.54273,-1.6317,,,
+FIMXB016,Euphrasia micrantha,59.54067,-1.63183,,,
+FIMXB016,Euphrasia scottica 'Shetland',59.54067,-1.63183,,,
+FIMXB017,Euphrasia micrantha,59.538758,-1.631541,,,
+FIMXB018,Euphrasia micrantha,59.537017,-1.630418,,,
+FIH63,Euphrasia arctica,59.53642697,-1.609382993,with Chris,23.01804,2018-08-13T09:36:06Z
+FIH64,Euphrasia foulaensis,59.536144,-1.607633019,with Chris,14.765888,2018-08-13T09:46:06Z
+FIH65,Euphrasia foulaensis x marshallii,59.53440601,-1.602527015,with Chris,38.558472,2018-08-13T10:15:08Z
+FIH66,Euphrasia micrantha x scottica,59.53644097,-1.609862018,with Chris,29.898952,2018-08-13T11:45:27Z
+FIH66,Euphrasia confusa x foulaensis,59.53644097,-1.609862018,with Chris,29.898952,2018-08-13T11:45:27Z
+FIH66,Euphrasia confusa x micrantha,59.53644097,-1.609862018,with Chris,29.898952,2018-08-13T11:45:27Z
+FIH68,Euphrasia arctica,59.52924997,-1.628316035,with Chris,59.596031,2018-08-13T13:47:37Z
+FIH68,Euphrasia arctica x foulaensis,59.52924997,-1.628316035,with Chris,59.596031,2018-08-13T13:47:37Z
+FIH69,Euphrasia arctica,59.52765598,-1.630888022,with Chris,56.519928,2018-08-13T13:57:28Z
+FIH70,Euphrasia arctica x nemorosa,59.52718902,-1.63190701,with Chris,55.472656,2018-08-13T14:05:50Z
+FIH71,unknown,59.52702398,-1.632715026,with Chris,55.784958,2018-08-13T14:18:18Z
+FIH72,Euphrasia arctica,59.52462198,-1.636011964,with Chris,56.212059,2018-08-13T14:39:02Z
+FIH73,Euphrasia arctica x nemorosa,59.52392201,-1.632588962,with Chris,51.256248,2018-08-13T14:56:35Z
+FIH74,Euphrasia arctica x nemorosa,59.522079,-1.63739196,with Chris,37.10828,2018-08-13T15:40:22Z
+FIH75,unknown,59.52222099,-1.637044027,with Chris,38.245201,2018-08-13T15:49:41Z
+FIH76,Euphrasia arctica x foulaensis,59.51713099,-1.64079099,with Chris,20.202511,2018-08-13T16:04:51Z
+FIH77,Euphrasia foulaensis,59.51329099,-1.648481973,with Chris,4.717545,2018-08-13T16:25:57Z
+FIH78,Euphrasia foulaensis,59.51416397,-1.650835024,with Chris,12.867123,2018-08-13T16:38:42Z
+FIH78,Euphrasia foulaensis x marshallii,59.51416397,-1.650835024,with Chris,12.867123,2018-08-13T16:38:42Z
+FIH79,Euphrasia foulaensis x marshallii,59.51433898,-1.652154,with Chris,7.1576,2018-08-13T16:47:43Z
+A83,Euphrasia confusa x foulaensis,59.53203,-1.6309,,,
+A84,Euphrasia micrantha,59.53603,-1.62928,,,
+A85,None,59.539,-1.6278,,,
+A86,Euphrasia micrantha,59.53867,-1.62824,,,
+A87,Euphrasia micrantha,59.53989,-1.62903,,,
+A88,Euphrasia micrantha,59.54025,-1.62866,,,
+A89,Euphrasia micrantha,59.54251,-1.62733,,,
+A90,Euphrasia micrantha,59.544236,-1.628519,,,
+A91,Euphrasia ostenfeldii,59.54641,-1.63262,,,
+A92,Euphrasia ostenfeldii,59.54742,-1.63269,,,
+A93,None,59.54889,-1.63247,,,
+A94,None,59.55068,-1.63282,,,
+A95,Euphrasia foulaensis,59.55012,-1.62882,,,
+A96,Euphrasia foulaensis,59.5508,-1.62744,,,
+A97,Euphrasia foulaensis x ostenfeldii,59.55101,-1.62773,,,
+A98,Euphrasia foulaensis,59.55039,-1.61688,,,
+A98,Euphrasia foulaensis x ostenfeldii,59.55039,-1.61688,,,
+A99,Euphrasia foulaensis,59.55066,-1.61261,,,
+A100,Euphrasia confusa x foulaensis,59.54831,-1.61118,,,
+A102,Euphrasia confusa x foulaensis,59.54746,-1.61488,,,
+A103,Euphrasia confusa x foulaensis,59.54501,-1.61221,,,
+A103,Euphrasia micrantha,59.53144,-1.61923,double ID,,
+A103,Euphrasia foulaensis x scottica,59.53144,-1.61923,,,
+A104,None,59.528987,-1.610732,,,
+A105,Euphrasia foulaensis,59.526979,-1.61392,,,
+A106,Euphrasia foulaensis,59.525637,-1.617596,,,
+A107,Euphrasia micrantha,59.528127,-1.621667,,,
+A108,Euphrasia micrantha,59.530166,-1.62432,,,
+A108,Euphrasia micrantha x scottica,59.530166,-1.62432,,,
+A109,Euphrasia confusa,59.530912,-1.62567,,,
+A109,Euphrasia confusa x foulaensis,59.530912,-1.62567,,,
+A110,Euphrasia confusa,59.531502,-1.627138,,,
+A110,Euphrasia micrantha,59.531502,-1.627138,,,
+A111,Euphrasia micrantha,59.532087,-1.62924,,,
+A112,Euphrasia micrantha,59.537202,-1.629517,,,
+A113,Euphrasia foulaensis,59.53981,-1.641329,,,
+A114,Euphrasia ostenfeldii,59.546654,-1.632024,,,
+A115,Euphrasia foulaensis x marshallii,59.550656,-1.626142,,,
+FIH80,Euphrasia micrantha,59.53220601,-1.628877036,,57.765156,2018-08-14T09:05:04Z
+FIH80,Euphrasia scottica,59.53220601,-1.628877036,,57.765156,2018-08-14T09:05:04Z
+FIH80,Euphrasia micrantha x scottica,59.53220601,-1.628877036,,57.765156,2018-08-14T09:05:04Z
+FIH81,Euphrasia micrantha,59.53184802,-1.629323037,,63.815422,2018-08-14T09:23:25Z
+FIH82,Euphrasia micrantha,59.53636,-1.629119022,,74.723999,2018-08-14T09:53:07Z
+FIH83,Euphrasia ostenfeldii,59.54649397,-1.632187972,,206.443375,2018-08-14T11:53:47Z
+FIH84,Euphrasia heslop-harrisonii,59.54782703,-1.632622993,,160.191269,2018-08-14T12:19:26Z
+FIH85,Euphrasia foulaensis,59.54936896,-1.637218036,,134.555634,2018-08-14T12:36:56Z
+FIH85,Euphrasia foulaensis x marshallii,59.54936896,-1.637218036,,134.555634,2018-08-14T12:36:56Z
+FIH86,Euphrasia foulaensis,59.55014999,-1.62236698,,95.466545,2018-08-14T13:22:38Z
+FIH87,Euphrasia foulaensis x marshallii,59.55019802,-1.619342035,,74.600929,2018-08-14T13:41:34Z
+FIH88,Euphrasia foulaensis,59.55169997,-1.611105977,,70.709442,2018-08-14T14:08:19Z
+FIH89,Euphrasia micrantha,59.54805703,-1.615795987,,53.561504,2018-08-14T14:47:32Z
+FIH92,Euphrasia arctica,59.51713501,-1.640819991,,19.868961,2018-08-15T10:42:02Z
+FIH95,Euphrasia foulaensis x marshallii,59.51224401,-1.638410026,,18.727859,2018-08-15T11:38:06Z
+FIH96,Euphrasia foulaensis x marshallii,59.51263703,-1.640085988,,22.64399,2018-08-15T12:18:07Z
+FIH97,Euphrasia arctica x foulaensis,59.51403899,-1.649269033,,9.053391,2018-08-15T12:44:15Z
+FIH98,Euphrasia foulaensis,59.51385501,-1.650253991,,15.696423,2018-08-15T12:52:28Z
+FIH99,Euphrasia arctica,59.524611,-1.635999978,,58.787285,2018-08-15T13:49:16Z
+FIH100,Euphrasia foulaensis,59.52787902,-1.645239014,,82.666611,2018-08-15T14:18:01Z
+FIH101,Euphrasia foulaensis,59.53279702,-1.641850965,,99.841423,2018-08-15T14:43:17Z
