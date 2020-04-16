@@ -10,19 +10,22 @@ library(ggplot2)
 # data from Dropbox
 mapped <- fread("~/Dropbox/Euphrasia_share/Maps/joint_sites_180816_verifiedAT_HB.csv")
 
+# remove unknowns?
+mapped[Taxon == "unknown"]$Taxon <- "None"
+
 # all the available features in osmaps
 head(available_features(), 100)
 
 osmdata::available_features()
 
 # list of all features and tags within (takes a while...)
-feat <- list()
-for(i in 1:length(osmdata::available_features())){
-  j <- osmdata::available_features()[i]
-  feat[[j]] <- osmdata::available_tags(feature = osmdata::available_features()[i])
-}
+#feat <- list()
+#for(i in 1:length(osmdata::available_features())){
+ # j <- osmdata::available_features()[i]
+  #feat[[j]] <- osmdata::available_tags(feature = osmdata::available_features()[i])
+#}
 
-feat
+#feat
 
 # all the tags in the available feature, railway
 available_tags(feature = "highway")
