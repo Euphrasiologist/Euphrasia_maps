@@ -11,7 +11,7 @@ library(ggplot2)
 mapped <- fread("~/Dropbox/Euphrasia_share/Maps/joint_sites_180816_verifiedAT_HB.csv")
 
 # remove unknowns?
-mapped[Taxon == "unknown"]$Taxon <- "None"
+mapped[Taxon == "unknown"]$Taxon
 
 # all the available features in osmaps
 head(available_features(), 100)
@@ -53,8 +53,8 @@ mapFI <- ggplot() +
           color = "black",
           size = 0.5,
           alpha = 0.8) +
-  geom_point(data = mapped[Taxon %in% c("Euphrasia arctica", "Euphrasia foulaensis", "Euphrasia micrantha")], aes(x = lon, y = lat, fill = Taxon), pch = 21, size = 4)+
-  scale_fill_manual(name = "Species", values = c("red", "green", "blue"))+
+  geom_point(data = mapped[Taxon %in% c("Euphrasia arctica", "Euphrasia foulaensis", "Euphrasia micrantha", "None")], aes(x = lon, y = lat, fill = Taxon), pch = 21, size = 4)+
+  scale_fill_manual(name = "Species", values = c("#E69F00", "#56B4E9", "#999999", "#FFFFFF"))+
   theme_bw(base_line_size = 0)+
   xlab("Longitude")+
   ylab("Latitude") 
